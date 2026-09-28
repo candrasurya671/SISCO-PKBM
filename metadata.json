@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Informasi PKBM AL-ABROR",
+  "description": "Sistem Informasi Manajemen PKBM (Pusat Kegiatan Belajar Masyarakat) terpadu untuk Kesetaraan Paket A, B, dan C, mencakup SPMB, Rombel, Akademik, Presensi, dan Keuangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
